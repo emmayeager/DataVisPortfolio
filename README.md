@@ -9,7 +9,7 @@ I like baking, crocheting, and reading. This winter, my roommates and I are lear
 Nice to meet you!
 
 ## What I hope to learn
-I already have a solid grasp on how to quickly make simple data visualizations with tools like R and Python. I would like to work on creating polished and interactive data visualizations in this class. 
+I already have a solid grasp on how to make quick and simple data visualizations with tools like R and Python. I would like to work on creating polished and interactive data visualizations in this class. 
 
 ## Portfolio
 
