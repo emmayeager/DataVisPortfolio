@@ -1,5 +1,5 @@
 # DataVisPortfolio
-This is my portfolio of data visualizations created in the CMU class _Telling Stories with Data_.
+This is my portfolio of visualizations created for the CMU class _Telling Stories with Data_.
 
 ## About me
 Hi! My name is Emma (she/her/hers) and I'm a public policy and data analytics master's candidate. I'm interested in applying data analytics to local policy problems, especially ones related to housing and public transit. Right now, I'm interning with a lab at CMU that uses data analytics to prevent evictions in Allegheny County. 
