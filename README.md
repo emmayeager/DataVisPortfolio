@@ -15,6 +15,8 @@ I know how to make quick and simple data visualizations with tools like R and Py
 
 ### Data visualization #1
 
+[Visualizing Government Debt](/datavis1.md)
+
 ### Final project, part 1
 
 ### Final project, part 2
