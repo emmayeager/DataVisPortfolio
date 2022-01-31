@@ -1,4 +1,4 @@
-# Visualizing Government Debt
+## Visualizing Government Debt
 
 I visualized OECD data on government debt for the G7 countries using the OECD's graphing tool and Flourish. I picked the G7 because it includes the countries with the largest debt-to-GDP ratios globally -- especially Japan, Italy, and the US.
 
