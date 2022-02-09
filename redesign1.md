@@ -19,19 +19,27 @@ The chart makes an important point: lots of Maryland residents cannot afford hou
 Crucially, the chart is missing a title. This is a missed opportunity to add context to the data being presented. In addition, we're missing some background on the information in the chart. How did the chart creator define affordable? This question is answered elsewhere on the fact sheet, but might be lost when focusing only on the chart. 
 
 #### Perceptibility
-This is the area where the chart struggles the most. The takeaway is not immediately perceptible. Instead, we need to spend a lot of time analyzing the chart before the message becomes clear. 
+This is the area where the chart struggles the most. The takeaway is not immediately clear. Instead, we need to spend a lot of time analyzing the chart before the message becomes clear. 
 
 #### Truthfulness
-The chart is not misleading. I could see the lack of background on how the estimates were calculated causing slightly misleading conclusions -- for instance, someone might conclude that the average renter is missing payments due to the gap between what they can afford and average rents, when really they may be working extra hours or foregoing saving -- but this seems like too much explanation to include in a visualization. 
+Overall, the chart is not misleading. The eventual takeaway that many renters cannot afford housing is supported by the rest of the fact sheet. However, I could see the lack of background on how the estimates were calculated causing incorrect inferences about Maryland renters -- for instance, someone might conclude that the average renter is missing payments due to the gap between what they can afford and average rents, when really they may be working extra hours or foregoing saving -- but this seems like too much explanation to include in a visualization. 
 
 #### Intuitiveness
 The chart is not intuitive. We're missing the title and axis labels, some of the most important cues to understanding a chart. And the use of color is distracting. 
 
 #### Aesthetics
-While the appearance is clean and simple, the chart is not particularly aesthetically pleasing. It has a lot of small text and the colors are fighting for attention. 
+While the appearance is clean and simple, the chart is not particularly aesthetically pleasing. There's a lot of small text and the colors are fighting for attention. 
+
+#### Engagement
+Because it's unclear, the chart will only work for an engaged viewer who is invested in figuring out what to conclude about affordable housing in Maryland. It is too confusing to be engaging to a less interested viewer. 
 
 ### Wireframing
 
+Based on my critique, I wireframed three potential redesigns of the housing affordability visualization.
+
+#### Wireframe 1
+
+<div class="infogram-embed" data-id="49efcf68-d963-4d31-9cd5-2f052483d0bd" data-type="interactive" data-title="Bar Chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/49efcf68-d963-4d31-9cd5-2f052483d0bd" style="color:#989898!important;text-decoration:none!important;" target="_blank">Bar Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 
 
