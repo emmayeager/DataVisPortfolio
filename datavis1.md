@@ -18,6 +18,6 @@ For the final chart, I stacked all the countries on top of each other in one lin
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8559301"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Plotting the countries together makes it easier to tell which countries have had higher debt-to-GDP ratios over time, which is harder to make out in the sparkline plot. However, the criss crossing series could be hard to follow, so I pushed most countries to the background using the color gray and highlighted the United Kingdom only. I added a story-telling title about how the UK'ss ratio compares to other countries to reinforce the message that the viewer is likely to see first: the UK outpaced France in debt-to-GDP ratios in 2020. 
+Plotting the countries together makes it easier to tell which countries have had higher debt-to-GDP ratios over time, which is harder to make out in the sparkline plot. However, the criss crossing series could be hard to follow, so I pushed most countries to the background using the color gray and highlighted the United Kingdom only. I added a story-telling title about how the UK's ratio compares to other countries to reinforce the message that the viewer is likely to see first: the UK outpaced France in debt-to-GDP ratios in 2020. 
 
 Click [here](https://emmayeager.github.io/DataVisPortfolio/) to return to my data visualization portfolio.
