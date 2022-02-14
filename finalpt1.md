@@ -15,15 +15,19 @@ These are the major points that I plan to hit in my story:
 
 ### Initial sketches
 
-* Shifting tenant protection coverage over time
+* Shifting tenant protection coverage over time:
+
 ![image](https://user-images.githubusercontent.com/71148016/153790746-7ff6de3f-b049-411f-9cb3-38ba5502c32c.png)
+![image](https://user-images.githubusercontent.com/71148016/153791007-cae7b618-6fd9-41f7-b17f-bc66b00ccdfa.png)
+![image](https://user-images.githubusercontent.com/71148016/153791049-935a361b-1b04-4b25-a543-bc0d074536d8.png)
 
 The viewer would scroll to see how eviction protections have become less prevalent in the US since the beginning of the pandemic. I'm envisioning an animated map that has protected cities or states fade in and out over time. 
 
 The sketches above were made using [this image](https://www.flickr.com/photos/donkeyhotey/24247764924) from Flickr. 
 
-* Visualizations of the incidence and effects of eviction
-![image](https://user-images.githubusercontent.com/71148016/153789289-151020c0-4847-4a5e-b229-b437d717e861.png)
+* Visualizations of the incidence and effects of eviction:
+
+![image](https://user-images.githubusercontent.com/71148016/153791158-4ad4360c-4836-403e-b1f9-7654e4514c9e.png)
 
 For instance, three out of ten people who are evicted will experience homelessness at some point in the next year. 
 
