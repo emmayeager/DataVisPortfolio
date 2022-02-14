@@ -11,10 +11,29 @@ These are the major points that I plan to hit in my story:
 * The situation now. Despite high Covid transmission, tenants have extremely limited protections. 
 * The potential to extend better tenants protections, pandemic or not. This section will include potential policies, like mediation, as well as things that people at risk for eviction or their neighbors can do to prevent it. 
 
+![IMG_0305](https://user-images.githubusercontent.com/71148016/153790469-e5e9741a-2a15-460d-867d-b5994e0dc1fe.jpg)
+
 ### Initial sketches
 
-* One with shifting tenant protection coverage across the US
-* Some with stats on the incidence and effects of eviction
+* Shifting tenant protection coverage over time
+![image](https://user-images.githubusercontent.com/71148016/153788635-3e8b8901-08e5-4ee3-80a0-011f8e4ef882.png)
+![image](https://user-images.githubusercontent.com/71148016/153788782-0df9006e-8158-449e-95f0-b0bb9ae5b79f.png)
+![image](https://user-images.githubusercontent.com/71148016/153788848-ae6c1098-df34-4015-b9c3-43b1d60e22a8.png)
+
+The viewer would scroll to see how eviction protections have become less prevalent in the US since the beginning of the pandemic. I'm envisioning an animated map that has protected cities or states fade in and out over time. 
+
+The sketches above were made using [this image](https://www.flickr.com/photos/donkeyhotey/24247764924) from Flickr. 
+
+* Visualizations of the incidence and effects of eviction
+![image](https://user-images.githubusercontent.com/71148016/153789289-151020c0-4847-4a5e-b229-b437d717e861.png)
+
+For instance, three out of ten people who are evicted will experience homelessness at some point in the next year. 
+
+The sketch above was made using [this image](https://www.clker.com/clipart-7-out-of-10-stickman.html) from Clker. 
+
+* Visualizations of eviction filings in Pittsburgh, pandemic period vs. historical data.
+
+![IMG_0306](https://user-images.githubusercontent.com/71148016/153790494-2f72a8e5-bd97-4b15-ad21-caefad18802e.jpg)
 
 ### The data 
 
@@ -22,4 +41,6 @@ Most of the data that I will need for this project is available through Princeto
 
 ### Method and medium
 
-MapBox?
+I plan to experiment with [MapBox](https://www.mapbox.com/) and [Shorthand](https://shorthand.com/) to create my story. My preference is to use MapBox to create a similar visualization to this MIT Senseable City Lab [visualization](https://senseable.mit.edu/singapore-calling/) about segregation in Singapore. Their story combines maps with other types of visualizations, which show changes in the data over time as the viewer scrolls. I think it would be powerful to include a national map of tenant protections to show how coverage has deteriorated over time, from the federal CARES Act moratorium to now. However, this will only be possible if I'm able to scrape the historical data. 
+
+If obtaining national policy data is too challenging, I may switch over to Shorthand. This seems like a good tool to present static visualizations that don't require MapBox's capacity for animations.
