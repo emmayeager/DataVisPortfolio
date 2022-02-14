@@ -46,3 +46,5 @@ Most of the data that I will need for this project is available through Princeto
 I plan to experiment with [MapBox](https://www.mapbox.com/) and [Shorthand](https://shorthand.com/) to create my story. My preference is to use MapBox to create a similar visualization to this MIT Senseable City Lab [visualization](https://senseable.mit.edu/singapore-calling/) about segregation in Singapore. Their story combines maps with other types of visualizations, which show changes in the data over time as the viewer scrolls. I think it would be powerful to include a national map of tenant protections to show how coverage has deteriorated over time, from the federal CARES Act moratorium to now. However, this will only be possible if I'm able to scrape the historical data. 
 
 If obtaining national policy data is too challenging, I may switch over to Shorthand. This seems like a good tool to present static visualizations that don't require MapBox's capacity for animations.
+
+Click [here](https://emmayeager.github.io/DataVisPortfolio/) to return to my portfolio.
