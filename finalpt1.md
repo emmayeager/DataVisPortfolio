@@ -9,7 +9,7 @@ These are the major points that I plan to hit in my story:
 * The first eviction moratorium under the CARES Act (March 2020 to July 2020). In Pittsburgh, this was the most successful tenant protection, holding eviction filings far below historical averages.
 * The second eviction moratorium issued by the CDC (September 2020 to August 2021). This was less successful, but still kept eviction filings below historical averages. It was eventually struck down by the Supreme Court. 
 * The situation now. Despite high Covid transmission, tenants have extremely limited protections. 
-* The potential to extend better tenants protections for the rest of the pandemic and beyond. This section will include potential policies, like mediation, as well as things that people at risk for eviction or their neighbors can do to prevent it. 
+* The potential to extend better tenants protections, pandemic or not. This section will include potential policies, like mediation, as well as things that people at risk for eviction or their neighbors can do to prevent it. 
 
 ### Initial sketches
 
@@ -18,9 +18,7 @@ These are the major points that I plan to hit in my story:
 
 ### The data 
 
-* Policy coverage from Eviction Lab, https://evictionlab.org/covid-eviction-policies/
-* ^ Scrape historical data using Wayback API?
-* General stats on incidence and effects of eviction from Eviction Lab or Matthew Desmond papers
+Most of the data that I will need for this project is available through Princeton's [Eviction Lab](https://evictionlab.org/). The Lab has national data on the number of eviction filings since the beginning of the pandemic as well as filing data broken out by city (including [Pittsburgh](https://evictionlab.org/eviction-tracking/pittsburgh-pa/)). There is also a list of [local tenant protections](https://evictionlab.org/covid-eviction-policies/), which shows the current protections in place across the US. Unfortunately, there is no historical data provided; however, I may be able to scrape archived versions of the webpage using the [Wayback Machine API](https://archive.org/help/wayback_api.php).
 
 ### Method and medium
 
