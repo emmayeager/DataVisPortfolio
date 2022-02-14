@@ -16,9 +16,7 @@ These are the major points that I plan to hit in my story:
 ### Initial sketches
 
 * Shifting tenant protection coverage over time
-![image](https://user-images.githubusercontent.com/71148016/153788635-3e8b8901-08e5-4ee3-80a0-011f8e4ef882.png)
-![image](https://user-images.githubusercontent.com/71148016/153788782-0df9006e-8158-449e-95f0-b0bb9ae5b79f.png)
-![image](https://user-images.githubusercontent.com/71148016/153788848-ae6c1098-df34-4015-b9c3-43b1d60e22a8.png)
+![image](https://user-images.githubusercontent.com/71148016/153790746-7ff6de3f-b049-411f-9cb3-38ba5502c32c.png)
 
 The viewer would scroll to see how eviction protections have become less prevalent in the US since the beginning of the pandemic. I'm envisioning an animated map that has protected cities or states fade in and out over time. 
 
