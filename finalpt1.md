@@ -33,7 +33,7 @@ For instance, three out of ten people who are evicted will experience homelessne
 
 The sketch above was made using [this image](https://www.clker.com/clipart-7-out-of-10-stickman.html) from Clker. 
 
-* Visualizations of eviction filings in Pittsburgh, pandemic period vs. historical data.
+* Visualizations of eviction filings in Pittsburgh, pandemic period vs. historical data:
 
 ![IMG_0306](https://user-images.githubusercontent.com/71148016/153790494-2f72a8e5-bd97-4b15-ad21-caefad18802e.jpg)
 
