@@ -27,6 +27,8 @@ I know how to make quick and simple data visualizations with tools like R and Py
 
 ### Final project, part 2
 
+[Storyboard for my Pittsburgh eviction project](/finalpt2.md)
+
 ### Final project, part 3
 
 https://emmayeager.github.io/DataVisPortfolio/
