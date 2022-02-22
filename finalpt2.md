@@ -55,6 +55,14 @@ Most respondents liked this section and wanted to know more. One respondent said
 
 In retrospect, this may have been too much of a leading question to be useful. Most respondents said that eviction is a problem always (which the story clearly prompted them to do). One respondent suggested expanding more on the effects of eviction to convince them that it's a big deal post-pandemic.
 
+## Step 3: Planning for my final story
+
+My plan for finishing up the project in the next week is:
+1. Put the finishing touches on data cleaning and aquisition, and recreate my sketches using this data.
+2. Make the small fixes suggested by my interviewees. Rewording certain sections and moving around graphs are easy updates that I'll do first.
+3. Rework the flow of my story as time permits. My journalist interviewee had some great feedback on this that I would like to implement if there's time.
+
+
 
 
 
