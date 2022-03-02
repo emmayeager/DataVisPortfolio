@@ -18,4 +18,4 @@ This was a challenging project! While I'm happy with the product I have so far, 
 
 This project involved some behind-the-scenes data work, like processing the Eviction Lab data (see the code here) and scraping the Household Pulse Survey (I leaned heavily on Sophie Hill's publicly-available code for this, see [here](https://www.sophie-e-hill.com/post/2021-09-12-downloading-the-census-household-pulse-survey-in-r/)). If I keep working with the story, there's some more of this kind of work I'd like to do too.
 
-Click to see [part 1](/finalpt1.md) and [part 2](/finalpt2.md) of my project, or go back to my [portfolio](https://github.com/emmayeager/DataVisPortfolio/blob/main/finalpt2.md).
+Click to see [part 1](/finalpt1.md) and [part 2](/finalpt2.md) of my project, or go back to my [portfolio](https://emmayeager.github.io/DataVisPortfolio/).
