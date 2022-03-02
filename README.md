@@ -31,4 +31,6 @@ I know how to make quick and simple data visualizations with tools like R and Py
 
 ### Final project, part 3
 
+[Final project deliverable: Eviction Prevention After the Moratoriums](/finalpt3.md)
+
 https://emmayeager.github.io/DataVisPortfolio/
