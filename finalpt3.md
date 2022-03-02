@@ -2,6 +2,7 @@
 
 ### Eviction Prevention After the Moratoriums
 
+Click to see my final [story](https://carnegiemellon.shorthandstories.com/eviction-prevention-after-the-moratoriums/index.html), or read the embedded version below:
 <script src="https://carnegiemellon.shorthandstories.com/eviction-prevention-after-the-moratoriums/embed.js"></script>
 
 ### Final audience
